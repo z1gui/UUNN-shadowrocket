@@ -1,2 +1,2 @@
 # UUNN-shadowrocket
-基于UUNN的clash配置，改造成课导入shadowrocket的配置文件
+基于UUNN的clash配置，改造成可导入shadowrocket的配置文件
